@@ -1,0 +1,9 @@
+# Nunca subir declaraciones ni resúmenes de clientes
+*.pdf
+*.xlsx
+*.xls
+
+__pycache__/
+*.pyc
+.venv/
+venv/
